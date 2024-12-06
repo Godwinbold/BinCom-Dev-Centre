@@ -1,0 +1,14 @@
+C:\Users\DECAGON\OneDrive\Desktop\Godwin-Decagon\Bimcom.Dev\BinCom.Dev\BinCom.Dev\bin\Debug\net7.0\BinCom.Dev.exe
+C:\Users\DECAGON\OneDrive\Desktop\Godwin-Decagon\Bimcom.Dev\BinCom.Dev\BinCom.Dev\bin\Debug\net7.0\BinCom.Dev.deps.json
+C:\Users\DECAGON\OneDrive\Desktop\Godwin-Decagon\Bimcom.Dev\BinCom.Dev\BinCom.Dev\bin\Debug\net7.0\BinCom.Dev.runtimeconfig.json
+C:\Users\DECAGON\OneDrive\Desktop\Godwin-Decagon\Bimcom.Dev\BinCom.Dev\BinCom.Dev\bin\Debug\net7.0\BinCom.Dev.dll
+C:\Users\DECAGON\OneDrive\Desktop\Godwin-Decagon\Bimcom.Dev\BinCom.Dev\BinCom.Dev\bin\Debug\net7.0\BinCom.Dev.pdb
+C:\Users\DECAGON\OneDrive\Desktop\Godwin-Decagon\Bimcom.Dev\BinCom.Dev\BinCom.Dev\obj\Debug\net7.0\BinCom.Dev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DECAGON\OneDrive\Desktop\Godwin-Decagon\Bimcom.Dev\BinCom.Dev\BinCom.Dev\obj\Debug\net7.0\BinCom.Dev.AssemblyInfoInputs.cache
+C:\Users\DECAGON\OneDrive\Desktop\Godwin-Decagon\Bimcom.Dev\BinCom.Dev\BinCom.Dev\obj\Debug\net7.0\BinCom.Dev.AssemblyInfo.cs
+C:\Users\DECAGON\OneDrive\Desktop\Godwin-Decagon\Bimcom.Dev\BinCom.Dev\BinCom.Dev\obj\Debug\net7.0\BinCom.Dev.csproj.CoreCompileInputs.cache
+C:\Users\DECAGON\OneDrive\Desktop\Godwin-Decagon\Bimcom.Dev\BinCom.Dev\BinCom.Dev\obj\Debug\net7.0\BinCom.Dev.dll
+C:\Users\DECAGON\OneDrive\Desktop\Godwin-Decagon\Bimcom.Dev\BinCom.Dev\BinCom.Dev\obj\Debug\net7.0\refint\BinCom.Dev.dll
+C:\Users\DECAGON\OneDrive\Desktop\Godwin-Decagon\Bimcom.Dev\BinCom.Dev\BinCom.Dev\obj\Debug\net7.0\BinCom.Dev.pdb
+C:\Users\DECAGON\OneDrive\Desktop\Godwin-Decagon\Bimcom.Dev\BinCom.Dev\BinCom.Dev\obj\Debug\net7.0\BinCom.Dev.genruntimeconfig.cache
+C:\Users\DECAGON\OneDrive\Desktop\Godwin-Decagon\Bimcom.Dev\BinCom.Dev\BinCom.Dev\obj\Debug\net7.0\ref\BinCom.Dev.dll
